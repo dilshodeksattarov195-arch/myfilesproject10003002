@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercarse",
+        "uuid": 13545024,
+        "checksum": "pauenc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
